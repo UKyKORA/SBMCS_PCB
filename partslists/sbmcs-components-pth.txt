@@ -1,0 +1,24 @@
+# through hole parts for korabot motor control shield
+
+H1       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8        2,8-PAD                holes              4
+H2       MOUNT-PAD-ROUND2.8 MOUNT-PAD-ROUND2.8        2,8-PAD                holes              4
+
+5V_OUT                      PINHD-1X2                 1X02                   pinhead            4
+PROG                        PINHD-1X4                 1X04                   pinhead            1
+I2C                         PINHD-1X4                 1X04                   pinhead            1
+RUN                         PINHD-1X2                 1X02                   pinhead            4
+SERIAL                      PINHD-1X3                 1X03                   pinhead            1
+SERVO                       PINHD-1X3                 1X03                   pinhead            1
+ M1       S6B-PH-K-S(LF)(SN) S6B-PH-K-S(LF)(SN)        JST_S6B-PH-K-S(LF)(SN) S6B-PH-K-S_LF__SN_ 2
+ M2       S6B-PH-K-S(LF)(SN) S6B-PH-K-S(LF)(SN)        JST_S6B-PH-K-S(LF)(SN) S6B-PH-K-S_LF__SN_ 2
+
+
+ C8       180uF              CPOL-USE2.5-6             E2,5-6                 adafruit           4
+ C9       180uF              CPOL-USE2.5-6             E2,5-6                 adafruit           4
+ C10      15uF               CPOL-USE2.5-6             E2,5-6                 adafruit           4
+ C11      15uF               CPOL-USE2.5-6             E2,5-6                 adafruit           4
+ C12      15uF               CPOL-USE2.5-6             E2,5-6                 adafruit           4
+
+ L1       2100LL-220-V-RC    2100LL-220-V-RC           IND_2100LL_42_V        TI3VRegulator      4
+
+ D2       1N4004             1N4004                    DO41-10                diode              4
